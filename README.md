@@ -1,7 +1,7 @@
 <h1 align"center">TV Clic Brasil</h1>
 
 <p>
-<img src="Banner Tv Clic.jpg" width="100%">
+<img src="img/Banner Tv Clic .jpg" width="100%">
 </p>
 
 ## 📺 Sobre a empresa

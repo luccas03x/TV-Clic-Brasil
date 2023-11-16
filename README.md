@@ -1,4 +1,4 @@
-<h1 align"center">TV Clic Brasil</h1>
+<h1 align="center">TV Clic Brasil</h1>
 
 <p>
 <img src="img/Banner Tv Clic .jpg" width="100%">

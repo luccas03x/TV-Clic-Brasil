@@ -1,7 +1,7 @@
 <h1 align"center">TV Clic Brasil</h1>
 
 <p>
-<img src="Banner Tv Clic .jpg" width="100%">
+<img src="Banner Tv Clic.jpg" width="100%">
 </p>
 
 ## 📺 Sobre a empresa
@@ -17,5 +17,5 @@
 - Whatsapp: (11) 98899-0357
 
 ## 💭 Inspiração
-O site foi baseado além do site original, no template da W3Schools:
-THE CAFE - https://spaces.w3schools.com/
+<p>O site foi baseado além do site original, no template da W3Schools:</p>
+<p>THE CAFE - https://spaces.w3schools.com/</p>
